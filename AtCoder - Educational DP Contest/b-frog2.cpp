@@ -1,4 +1,4 @@
-//https://atcoder.jp/contests/dp/tasks/dp_a
+//https://atcoder.jp/contests/dp/tasks/dp_b
 
 #include<iostream>
 #include<vector>
