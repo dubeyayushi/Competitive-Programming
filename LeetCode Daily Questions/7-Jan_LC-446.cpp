@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/?envType=daily-question&envId=2024-01-07
 #include<iostream>
 using namespace std;
  
